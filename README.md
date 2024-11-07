@@ -1,6 +1,5 @@
 
 ************************************************************************************************************
-![Programming Skills](https://www.springboard.com/blog/wp-content/uploads/2022/08/programming-skills.png)
 # About Me
 <hr>
   <div style="text-align: center;">
