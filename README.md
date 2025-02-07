@@ -55,10 +55,10 @@
 ---
 
 ### 💡 Featured Projects:
-🔹 **[Driver Drowsiness Detection](https://github.com/RajaaLebnaiti/Driver-Drowsiness-Detection)** - CNN model to detect driver fatigue.  
-🔹 **[Real-Time Student Emotion Monitoring System for Enhanced Classroom Engagement](Real-Time Student Emotion Monitoring System for Enhanced Classroom Engagement)** -ML models to detect fatigue and loww concentration.  
-🔹 **[Obesity Level Estimation](https://github.com/RajaaLebnaiti/Obesity-Level-Estimation)** - ML project analyzing eating habits and obesity.  
-🔹 **[Job Search Chatbot](https://github.com/RajaaLebnaiti/Job-Search-Chatbot)** - Rasa-powered chatbot for job/internship search.  
+🔹 **[Driver Drowsiness Detection]** - CNN model to detect driver fatigue.  
+🔹 **[Real-Time Student Emotion Monitoring System for Enhanced Classroom Engagement]** -ML models to detect fatigue and loww concentration.  
+🔹 **[Obesity Level Estimation]** - ML project analyzing eating habits and obesity.  
+🔹 **[Job Search Chatbot]** - Rasa-powered chatbot for job/internship search.  
 
 ---
 
