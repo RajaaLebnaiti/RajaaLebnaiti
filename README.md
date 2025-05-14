@@ -23,15 +23,12 @@
 ### 🌱 What I'm Currently Learning:
 - Machine Learning & Artificial Intelligence 🤖  
 - Deep Learning & Computer Vision 🧠📸  
-- Big Data & Cloud Technologies ☁️  
-
 ---
 
 ### 🔥 My Tech Stack:
-- **Languages:** Python, JavaScript, Scala, SQL  
-- **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras  
+- **Languages:** Python, Java, Scala, SQL  
+- **Data Science:** Pandas, NumPy, Scikit-Learn, Pytorch
 - **Big Data:** Apache Spark, Hadoop, Kafka  
-- **Web Development:** HTML, CSS, JavaScript (React.js)  
 - **Tools & Platforms:** Git, Jupyter Notebook, VS Code, IntelliJ  
 
 ---
@@ -55,9 +52,9 @@
 ---
 
 ### 💡 Featured Projects:
+🔹 **[Anomaly Detection for Unmanned Vessels Using Sensor Data and Artificial Intelligence]** - Comming Soon. 
 🔹 **[Driver Drowsiness Detection]** - CNN model to detect driver fatigue.  
 🔹 **[Real-Time Student Emotion Monitoring System for Enhanced Classroom Engagement]** -ML models to detect fatigue and loww concentration.  
-🔹 **[Obesity Level Estimation]** - ML project analyzing eating habits and obesity.  
 🔹 **[Job Search Chatbot]** - Rasa-powered chatbot for job/internship search.  
 
 ---
