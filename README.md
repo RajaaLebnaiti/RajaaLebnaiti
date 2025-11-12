@@ -7,8 +7,7 @@
   <h2 style="color: #333;">Hello, I'm <span style="color: #009688;">LEBNAITI Rajaa</span> 👋</h2>
   
   <p style="color: #555; font-size: 18px;">
-    🚀 IT & Data Engineering Student | Aspiring Data Scientist <br>
-    📍 <a href="http://ensak.usms.ac.ma/ensak/" style="color: #009688; text-decoration: none;">National School of Applied Sciences</a>
+    🚀 Data Scientist | Aspiring Data <br>
   </p>
   
   <p style="font-size: 16px; color: #777;">
@@ -21,15 +20,14 @@
 ---
 
 ### 🌱 What I'm Currently Learning:
-- Machine Learning & Artificial Intelligence 🤖  
+- Machine Learning & MLOps 
 - Deep Learning & Computer Vision 🧠📸  
 ---
 
 ### 🔥 My Tech Stack:
-- **Languages:** Python, Java, Scala, SQL  
-- **Data Science:** Pandas, NumPy, Scikit-Learn, Pytorch
-- **Big Data:** Apache Spark, Hadoop, Kafka  
-- **Tools & Platforms:** Git, Jupyter Notebook, VS Code, IntelliJ  
+- **Languages:** Python, Java, SQL  
+- **Data Science:** Pandas, NumPy, Scikit-Learn, Pytorch, FastAPI, MLFlow 
+- **Tools & Platforms:** Git/GitHub, Azure 
 
 ---
 
@@ -52,10 +50,9 @@
 ---
 
 ### 💡 Featured Projects:
-🔹 **[Anomaly Detection for Unmanned Vessels Using Sensor Data and Artificial Intelligence]** - Comming Soon. 
+🔹 **[Anomaly Detection for Unmanned Vessels Using Sensor Data and Artificial Intelligence]** 
 🔹 **[Driver Drowsiness Detection]** - CNN model to detect driver fatigue.  
-🔹 **[Real-Time Student Emotion Monitoring System for Enhanced Classroom Engagement]** -ML models to detect fatigue and loww concentration.  
-🔹 **[Job Search Chatbot]** - Rasa-powered chatbot for job/internship search.  
+🔹 **[Real-Time Student Emotion Monitoring System for Enhanced Classroom Engagement]** -ML models to detect fatigue and low concentration.  
 
 ---
 
