@@ -50,8 +50,9 @@
 ---
 
 ### 💡 Featured Projects:
-🔹 **[Anomaly Detection for Unmanned Vessels Using Sensor Data and Artificial Intelligence]** 
-🔹 **[MLOps for Credit Card Fraud detection]** - CNN model to detect driver fatigue.  
+🔹 **[Anomaly Detection for Unmanned Vessels Using Sensor Data and Artificial Intelligence]**
+
+🔹 **[MLOps for Credit Card Fraud detection]**.  
 
 
 ---
