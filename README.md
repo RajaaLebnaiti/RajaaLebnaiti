@@ -51,8 +51,8 @@
 
 ### 💡 Featured Projects:
 🔹 **[Anomaly Detection for Unmanned Vessels Using Sensor Data and Artificial Intelligence]** 
-🔹 **[Driver Drowsiness Detection]** - CNN model to detect driver fatigue.  
-🔹 **[Real-Time Student Emotion Monitoring System for Enhanced Classroom Engagement]** -ML models to detect fatigue and low concentration.  
+🔹 **[MLOps for Credit Card Fraud detection]** - CNN model to detect driver fatigue.  
+
 
 ---
 
