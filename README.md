@@ -20,8 +20,7 @@
 ---
 
 ### 🌱 What I'm Currently Learning:
-- Machine Learning & MLOps 
-- Deep Learning & Computer Vision 🧠📸  
+- Agentic AI
 ---
 
 ### 🔥 My Tech Stack:
