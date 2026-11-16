@@ -24,9 +24,9 @@
 ---
 
 ### 🔥 My Tech Stack:
-- **Languages:** Python, Java, SQL  
-- **Data Science:** Pandas, NumPy, Scikit-Learn, Pytorch, FastAPI, MLFlow 
-- **Tools & Platforms:** Git/GitHub, Azure 
+- **Languages:** Python, SQL  
+- **Data Science:** Pandas, NumPy, Scikit-Learn, PyTorch, FastAPI, MLFlow, LangChain, RAG
+- **Tools & Platforms:** Git/GitHub, Azure, GitHub Actions
 
 ---
 
@@ -48,13 +48,6 @@
 
 ---
 
-### 💡 Featured Projects:
-🔹 **[Anomaly Detection for Unmanned Vessels Using Sensor Data and Artificial Intelligence]**
-
-🔹 **[MLOps for Credit Card Fraud detection]**.  
-
-
----
 
 🌟 **"Turning data into insights, one project at a time."**  
 📌 Open to collaborations & learning opportunities!  
